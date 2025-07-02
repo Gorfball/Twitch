@@ -1,0 +1,5 @@
+# Requirements for Floating Counter scripts
+# Tkinter is included with standard Python installations (no need to install separately)
+Flask>=2.0.0
+keyboard>=0.13.5
+pynput>=1.7.6 
